@@ -9,7 +9,7 @@ I'm here to break into 🥁🥢🎶 Cybersecurity. These are my accoplishments a
 
 <h2><> Skill demonstrations related to Cybersecurity:</h2>
 
-- [SQL filtering](https://docs.google.com/document/d/12WKBiCWS9F8sbX5Oieam7Te0NIbv-rxcmtJ3O3_v7Sc/edit?usp=sharing&resourcekey=0-Mw8bhkBmdlzEjbv-u__hWw)
+- [SQL filtering](https://github.com/AStensrud/SQLFilteringLab/tree/main)
 - [File permissions in Linux](https://docs.google.com/document/d/1JuOkTjWwANC-3H8ABnEtAnkcZ2bZsSbLRFfqbKlY6C8/edit#heading=h.adnh333husy)
 
 
